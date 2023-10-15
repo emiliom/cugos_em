@@ -2,6 +2,8 @@
 
 My presentation at the [CUGOS 2023 Spring Fling](https://cugos.org/2023-spring-fling/), 2023-04-21.
 
+**TODO:** Add conda environment file used with the notebook.
+
 ## Abstract
 
 **Title:** Cloud-optimized geo data formats and the Python ecosystem
