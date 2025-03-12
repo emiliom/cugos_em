@@ -2,8 +2,6 @@
 
 My presentation at the [CUGOS 2023 Spring Fling](https://cugos.org/2023-spring-fling/), 2023-04-21.
 
-**TODO:** Add conda environment file used with the notebook.
-
 ## Abstract
 
 **Title:** Cloud-optimized geo data formats and the Python ecosystem
@@ -13,3 +11,5 @@ Nowadays there are gobs of very large geospatial data of all sorts accessible in
 ## Presentation
 
 The presentation was created in [this Jupyter notebook](cugos-presentation.ipynb) using [RISE](https://github.com/damianavila/RISE). It's [available here as an HTML presentation](https://emiliom.github.io/CUGOS2023-CloudGeodataPython/cugos-presentation.slides.html)
+
+**TODO:** Add conda environment file used with the notebook.
