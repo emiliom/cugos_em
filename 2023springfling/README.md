@@ -17,11 +17,13 @@ The presentation was created in [this Jupyter notebook](cugos-presentation.ipynb
 *Bear in mind that this was from Spring 2023. Exact versions and dependency versions may be different now (May 2025). Some things are probably simpler these days.*
 
 Created an environment named **rise** for running the presentation as a Jupyter notebook in slides/presentation mode using [RISE](https://github.com/damianavila/RISE):
+
 ```bash
 mamba create -c conda-forge -n rise rise webcolors uri-template jsonpointer isoduration fqdn jupyter_contrib_nbextensions aiohttp aiobotocore s3fs fsspec geopandas rasterio xarray dask pystac matplotlib zarr pyarrow fastparquet python-snappy
 ```
 
 Created the QGIS environment **qgis-geoparquet**  to run QGIS with GeoParquet support:
+
 ```bash
 mamba create -n qgis-geoparquet -c conda-forge qgis libgdal-arrow-parquet pandas scipy scikit-learn pillow matplotlib ocl-icd-system
 ```
